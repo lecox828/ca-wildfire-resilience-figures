@@ -6,7 +6,7 @@ Figures produced were based on those published in “California’s Year in Fire
 
 Most recent csv files available used to create figures is stored in “Data” folder. This does not include any raster files because of file size. Links to download raw data are available in descriptions of figures below.
 
-Script to produce each figure is listed below the figure name. Authorship of script is included within file. 
+Script to produce each figure is listed below the figure name. Authorship of script is included within file. Descriptions of figures, data sources, and workflows were written by Lauren Cox and Yihong Zhu.
 
 # Figures
 
